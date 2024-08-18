@@ -40,3 +40,4 @@ I would like to extend my sincere thanks to the following sponsors for helping f
 Please use the [pterodactyl/panel](https://github.com/pterodactyl/panel) repository to report any issues or make
 feature requests for Wings. In addition, the [security policy](https://github.com/pterodactyl/panel/security/policy) listed
 within that repository also applies to Wings.
+MYSTICMANGO
